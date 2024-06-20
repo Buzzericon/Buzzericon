@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Frontend developer
 - 💞️ I’m looking to collaborate on My dream company
 - 📫 How to reach me to update you
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Big dream to get sucess
+- ⚡ Fun fact: always shows big
 
 <!---
 Buzzericon/Buzzericon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
